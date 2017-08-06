@@ -1,3 +1,9 @@
+/**Class: FriendList
+ * Purpose: Collection class for Friends
+ * Author: Carlton Branch
+ * Date: July 22, 2017
+ */
+
 import java.util.ArrayList;
 
 public class FriendList {
