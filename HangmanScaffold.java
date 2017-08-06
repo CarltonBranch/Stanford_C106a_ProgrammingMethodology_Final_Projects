@@ -1,3 +1,11 @@
+/*
+ * Hangman Scaffold
+ * Purpose: class builds the visual "hangman" based on the user guesses  
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
+
 import javax.swing.*;
 import java.awt.*;
 
