@@ -1,5 +1,8 @@
-//view model class for passing both the date and the message to the view
-
+/**Class: MessageViewModel 
+ * Purpose: view model class for passing both the date and the message to the view
+ * Author: Carlton Branch
+ * Date: July 22, 2017
+ */
 public class MessageViewModel 
 {
 	private String profileId, message, date;
