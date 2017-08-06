@@ -1,3 +1,10 @@
+/*
+ * HangmanRemix 
+ * Purpose: main game class - accepts user input, presents results to screen
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
