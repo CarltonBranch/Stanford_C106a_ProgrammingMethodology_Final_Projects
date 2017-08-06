@@ -1,9 +1,8 @@
 /*
- * File: NameSurferEntry.java
- * --------------------------
- * This class represents a single entry in the database.  Each
- * NameSurferEntry contains a name and a list giving the popularity
- * of that name for each decade stretching back to 1900.
+ * NameSurfeEntry
+ * Purpose: Retrieves local file data based on user input
+ * Author: Carlton L. Branch
+ * Date: July 2017
  */
 
 public class NameSurferEntry implements NameSurferConstants{
