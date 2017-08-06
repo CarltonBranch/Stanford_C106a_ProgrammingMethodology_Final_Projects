@@ -1,5 +1,5 @@
 /**Class: FriendList
- * Purpose: Collection class for Friends
+ * Purpose: Collection class for managing profiles in a FriendList 
  * Author: Carlton Branch
  * Date: July 22, 2017
  */
