@@ -1,3 +1,10 @@
+/*
+ * Hangman Lexicon 
+ * Purpose: class reads the text file and manages the word collection for the game
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
 import java.io.*;
 import java.util.*;
 
