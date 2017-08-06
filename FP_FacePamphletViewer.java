@@ -1,3 +1,9 @@
+/**Class: FacePamphletViewer
+ * Purpose: Main class - manages and runs the application
+ * Author: Carlton Branch
+ * Date: July 22, 2017
+ */
+
 import java.awt.*; 
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
