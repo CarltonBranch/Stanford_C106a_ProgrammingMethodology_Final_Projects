@@ -1,3 +1,10 @@
+/*
+ * NameSurferGraph 
+ * Purpose: Draws and maintains the graph of names based on user input
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
 import java.awt.*;
 import java.awt.event.ComponentEvent;
 import java.awt.event.ComponentListener;
