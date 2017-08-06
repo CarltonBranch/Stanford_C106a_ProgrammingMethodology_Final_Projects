@@ -1,3 +1,10 @@
+/*
+ * Name: ViewCreateProfile
+ * Purpose: View - creating new profiles
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
