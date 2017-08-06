@@ -1,3 +1,10 @@
+/*
+ * Name: SelectProfileView
+ * Purpose: View - selected profile view in frame
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.io.IOException;
