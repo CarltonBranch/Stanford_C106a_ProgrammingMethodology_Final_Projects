@@ -1,7 +1,11 @@
+/**Class: ProfileViewModel 
+ * Purpose: view model class for passing both the date and the message to the view
+ * Author: Carlton Branch
+ * Date: July 22, 2017
+ */
+
 import java.io.FileInputStream;
 import java.sql.Blob;
-
-//view model class for passing both the date and the message to the view
 
 public class ProfileViewModel {
 
