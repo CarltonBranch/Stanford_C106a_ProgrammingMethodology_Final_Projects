@@ -1,3 +1,10 @@
+/*
+ * MsgController
+ * Purpose : Send user input as commands to the database and return database state to the view model
+ * Author: Carlton L. Branch
+ * Date: July 2017
+ */
+
 import java.sql.*;
 import java.util.*;
 
